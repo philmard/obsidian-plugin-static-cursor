@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-plugin-static-cursor",
+	"name": "Static Cursor",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "Makes the cursor static, even when text is selected",
+	"author": "Filippos Marntirosian",
+	"authorUrl": "https://github.com/philmard",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
