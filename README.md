@@ -4,7 +4,7 @@
 
 If you want a static cursor (even when selecting text)
 
-**For Windows:**
+### **For Windows:**
 
 Create a [CSS snippet](https://help.obsidian.md/Extending+Obsidian/CSS+snippets) with this code:
 
@@ -14,7 +14,7 @@ Create a [CSS snippet](https://help.obsidian.md/Extending+Obsidian/CSS+snippets)
 }
 ```
 
-**for macOS**
+### **for macOS:**
 
 Simply use these commands in Terminal (which also disable cursor blinking in other applications):
 
