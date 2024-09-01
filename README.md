@@ -19,7 +19,7 @@ Create a [CSS snippet](https://help.obsidian.md/Extending+Obsidian/CSS+snippets)
 Simply use these commands in Terminal (which also disable cursor blinking in other applications):
 
 ```
-defaults write -g NSTextInsertionPointBlinkPeriod -float 10000
-defaults write -g NSTextInsertionPointBlinkPeriodOn -float 10000
-defaults write -g NSTextInsertionPointBlinkPeriodOff -float 10000
+defaults write -g NSTextInsertionPointBlinkPeriod -float 3600000
+defaults write -g NSTextInsertionPointBlinkPeriodOn -float 99999999
+defaults write -g NSTextInsertionPointBlinkPeriodOff -float 99999999
 ```
